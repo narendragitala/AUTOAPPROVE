@@ -4,14 +4,14 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= This+is+AutoApprove+Bot;Made+by+Venom Ayush;He/him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= This+is+naru+AutoApprove+Bot;Made+by+Venom Naru;He/him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer"></a>
 </div>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/venombolteop/AutoApprove"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/narendragitala/AUTOAPPROVE"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
       
 <h3 align="center">
@@ -53,11 +53,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Venom_Chatz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALL_ABOUT_NARU"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/VenomOwners"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/BROKENSHAYRI1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>  
    
 <h3 align="center">
@@ -65,5 +65,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://github.com/venombolteop/AutoApprove"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub" alt="GitHub" /> </a>
-<a href="https://t.me/Venom_bolte_pubIic"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" /> </a>
+<a href="https://github.com/narendragitala/AUTOAPPROVE"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub" alt="GitHub" /> </a>
+<a href="https://t.me/SHAYRIGALIBKI"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" /> </a>
