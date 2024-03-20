@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= This+is+naru+AutoApprove+Bot;Made+by+Venom Naru;He/him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= This+is+naru+AutoApprove+Bot;Made+by+NARU Naru;He/him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer"></a>
 </div>
 
 <h3 align="center">
